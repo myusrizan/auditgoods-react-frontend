@@ -1,0 +1,43 @@
+@font-face {
+    font-family: RobotoLight;
+    src: url(./../assets/font/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: RobotoRegular;
+    src: url(./../assets/font/Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family: RobotoBold;
+    src: url(./../assets/font/Roboto/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: RobotoBlack;
+    src: url(./../assets/font/Roboto/Roboto-Black.ttf);
+}
+
+@font-face {
+    font-family: RobotoThin;
+    src: url(./../assets/font/Roboto/Roboto-Thin.ttf);
+}
+
+@font-face {
+    font-family: ProximaNovaLight;
+    src: url(./../assets/font/ProxNov/ProximaNovaAltLight.otf);
+}
+
+@font-face {
+    font-family: ProximaNovaRegular;
+    src: url(./../assets/font/ProxNov/ProximaNova-Regular.otf);
+}
+@font-face {
+    font-family: ProximaNovaBold;
+    src: url(./../assets/font/ProxNov/ProximaNovaAltBold.otf);
+}
+@font-face {
+    font-family: ProximaNovaBlack;
+    src: url(./../assets/font/ProxNov/ProximaNovaAltBlack.otf);
+}
+@font-face {
+    font-family: BebasNeue;
+    src: url(./../assets/font/BebasNeue/BebasNeue-Regular.otf);
+}

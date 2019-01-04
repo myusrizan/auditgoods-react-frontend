@@ -1,0 +1,35 @@
+Audit Barang 
+
+General
+[x] Routing page
+[ ] Navbar 
+[ ] Footer
+[ ] Connect with API
+[ ] Connect with database
+[ ] Create user database
+[ ] Create product database 
+[ ] Create permission database
+
+Login
+[ ] Create login page
+
+
+Sales 
+[ ] Navbar Sales
+[ ] Dashboard page
+[ ] Sell product page
+
+Warehouse
+[ ] Navbar Warehouse
+[ ] Dashboard page
+[ ] Detail product page
+[ ] Restock product page
+[ ] Sell product page
+ 
+Manager 
+[ ] Navbar Manager
+[ ] Dashboard page
+[ ] Detail product page
+[ ] Statistic page
+[ ] Permission page
+[ ] Report page

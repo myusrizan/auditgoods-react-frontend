@@ -1,0 +1,122 @@
+.navBarTitle {
+    font-family: BebasNeue;
+    color: white;
+    font-size: 30px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.border-right-op {
+    border-right: solid rgba(255, 249, 249, 0.418);
+    height: 40px;
+}
+.border-right-most {
+    border-right: solid rgba(255, 249, 249, 0.418);
+    height: 39px;
+}
+.rightBox {
+    width: 100%;
+}
+.form-control {
+    border: none;
+    background: transparent;
+    outline: none;
+    width: 100% !important;
+}
+.form-inline:focus {
+    border: none;
+    outline: none;
+    box-sizing: none;
+}
+.form-control:focus {
+    border: none;
+    background: transparent;
+    outline: none;
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+.imgSearch {
+    height: 24px;
+    width: 24px;
+    opacity: 0.418;
+}
+
+.searchBarStyle {
+    width: 40%;
+}
+
+.bg-cl-bl {
+    background-color: black;
+}
+.background-color-grey {
+    background-color: #efefef;
+}
+
+.background-color-white {
+    background-color: white;
+}
+
+.login-box {
+    width: 300px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.register-box {
+    width: 90%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 5px;
+    border-width: 1px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-form {
+    max-width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.register-form {
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.login-form-forgot {
+    float: right;
+}
+.login-form-button {
+    width: 100%;
+}
+
+.page-height {
+    height: 135vh;
+}
+
+.box-position {
+    padding-top: 100px;
+}
+.registerbox-position {
+    padding-top: 30px;
+}
+
+.layout-content {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+.chart-position {
+    width: 600px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
